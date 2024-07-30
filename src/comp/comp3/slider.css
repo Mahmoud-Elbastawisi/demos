@@ -1,0 +1,28 @@
+.o
+{
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.ok
+{
+  height: 500px;
+  background-color: gray;
+
+}
+
+.ok1
+{
+  height: 500px;
+  background-color: rgb(173, 167, 167);
+}
+
+.ok2
+{
+  height: 500px;
+  background-color: rgb(197, 195, 195);
+}
